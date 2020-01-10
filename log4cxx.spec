@@ -1,6 +1,6 @@
 Name: log4cxx
 Version: 0.10.0
-Release: 14%{?dist}
+Release: 16%{?dist}
 Summary: A port to C++ of the Log4j project
 
 Group: System Environment/Libraries
@@ -69,6 +69,12 @@ Header files and documentation you can use to develop with log4cxx
 %doc html/
 
 %changelog
+* Fri Jan 24 2014 Daniel Mach <dmach@redhat.com> - 0.10.0-16
+- Mass rebuild 2014-01-24
+
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 0.10.0-15
+- Mass rebuild 2013-12-27
+
 * Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.10.0-14
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
